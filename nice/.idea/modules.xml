@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/nice.iml" filepath="$PROJECT_DIR$/.idea/nice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-core/nice-business/nice-business.iml" filepath="$PROJECT_DIR$/nice-core/nice-business/nice-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-core/nice-core.iml" filepath="$PROJECT_DIR$/nice-core/nice-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-core/nice-sdk/nice-sdk.iml" filepath="$PROJECT_DIR$/nice-core/nice-sdk/nice-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-core/nice-business/nice-user/user-api/user-api.iml" filepath="$PROJECT_DIR$/nice-core/nice-business/nice-user/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-core/nice-business/nice-user/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/nice-core/nice-business/nice-user/user-impl/user-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-app/web-app.iml" filepath="$PROJECT_DIR$/web-app/web-app.iml" />
+    </modules>
+  </component>
+</project>
