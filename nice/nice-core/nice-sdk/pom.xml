@@ -30,7 +30,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <spring.web.version>2.1.0.RELEASE</spring.web.version>
+        <spring.web.version>2.5.12</spring.web.version>
         <mysql.version>5.1.38</mysql.version>
         <log4j.version>1.3.8.RELEASE</log4j.version>
         <fastjson.version>1.2.58</fastjson.version>
